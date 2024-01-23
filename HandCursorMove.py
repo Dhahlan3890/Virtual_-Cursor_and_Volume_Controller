@@ -1,3 +1,5 @@
+#======== Python 3.8.10 =====================
+
 import cv2
 import mediapipe
 import time
